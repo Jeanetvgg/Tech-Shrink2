@@ -1,0 +1,7 @@
+{
+  "name": "TechShrink",
+  "description": "A web application that acts as a playful therapist for workplace tech frustrations, personifying tools to 'talk out' their problems and providing practical solutions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
